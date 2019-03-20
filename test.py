@@ -1,4 +1,8 @@
 import time
 # learngit
 print(time.time())
-#creating a new beanch is quickly & simple.
+<<<<<<< HEAD
+#creating a new beanch is quickly and simple.
+=======
+#creating a new beanch is quickly and simple.
+>>>>>>> feature1
